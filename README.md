@@ -13,3 +13,7 @@ Unfortunately, the MDN polyfill does not cover Browsers < IE 9, including Androi
 Download this repo and include customevent-polyfill.min.js in your project. You can install customevent-polyfill via bower as well.
 
     bower install customevent-polyfill
+
+## License
+
+customevent-polyfill is published under the [MIT License](LICENSE)
